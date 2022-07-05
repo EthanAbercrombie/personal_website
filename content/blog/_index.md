@@ -7,7 +7,7 @@ cascade:
   show_post_date: true
   sidebar:
     show_sidebar_adunit: false
-    text_link_label: View recent posts
+    ztext_link_label: View recent posts
     text_link_url: /blog/
 description: "This is a fully featured blog that supports categories, \ntags, series,
   and pagination.\n"
