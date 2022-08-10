@@ -114,11 +114,11 @@ enableEmoji = true
     title = "About Blogophonic"
     url = "/about/"
     weight = 1
-  [[menu.header]]
-    name = "Blog"
-    title = "Blog"
-    url = "/blog/"
-    weight = 4
+#  [[menu.header]]
+#    name = "Blog"
+#    title = "Blog"
+#    url = "/blog/"
+#    weight = 4
   [[menu.header]]
     name = "Research"
     title = "Project Portfolio"
@@ -128,7 +128,12 @@ enableEmoji = true
   name = "Publications"
   title = "Publications"
   url = "/Publications/"
-  weight = 3            # <-- item 4 in the navigation bar
+  weight = 3            # <-- item 3 in the navigation bar
+  [[menu.header]]
+  name = "CV"
+  title = "CV"
+  url = "/Curriculum_vitae/curriculum_vitae.pdf"
+  weight = 3
 #  [[menu.header]]
 #    name = "A collection"
 #    title = "A collection"
