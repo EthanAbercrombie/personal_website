@@ -2,7 +2,7 @@
 ## Configure sidebar content in narrow column
 author: "Ethan Abercrombie"
 role: "PhD Candidate"
-avatar_shape: rounded # circle, square, rounded, leave blank to exclude
+avatar_shape: square # circle, square, rounded, leave blank to exclude
 show_social_links: true # specify social accounts in site config
 audio_link_label: # leave blank to exclude
 #link_list_label: "Interests" # bookmarks, elsewhere, etc.
@@ -13,6 +13,9 @@ audio_link_label: # leave blank to exclude
 #  url: https://en.wikipedia.org/wiki/Pastry
 #- name: People
 #  url: https://en.wikipedia.org/wiki/People
+link_list_label:
+link_list:
+- name: abercrombie@wustl.edu
 ---
 
 ** index doesn't contain a body, just front matter above.

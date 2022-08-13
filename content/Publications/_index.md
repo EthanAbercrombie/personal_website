@@ -32,3 +32,11 @@ title: Publications
 
 ### Cannon, C. H., Colby Borchetta [...] **Ethan Abercrombie** [...] & Matthew Spenko (35 total authors). 2021. Extending Our Scientific Reach in Arboreal Ecosystems for Research and Management. **_Frontiers in Forests and Global Change_** 4.
 ---
+# **Manuscripts in Preparation**
+
+### **Abercrombie**, E., Emily Anders, Giuseppe Inglima, Cameron Williams & Sybil G. Gotsch. Increasing effects of microhabitat on epiphyte functional group abundance across a cloud-base ecotone. In preparation for the *American Journal of Botany*.
+
+### Murray, J. G., **Ethan Abercrombie** & Nalini Nadkarni. Canopy soils: structure, function, and distribution. In preparation.
+
+### **Abercrombie**, E., Jonathan A. Myers & Adam B. Smith. Climate change drives shifts in small-mammal community composition across the Sierra Nevada. In preparation for *Ecography*.
+---

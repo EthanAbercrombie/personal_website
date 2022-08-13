@@ -119,21 +119,21 @@ enableEmoji = true
 #    title = "Blog"
 #    url = "/blog/"
 #    weight = 4
-  [[menu.header]]
-    name = "Research"
-    title = "Project Portfolio"
-    url = "/project/"
-    weight = 3
+#  [[menu.header]]
+#    name = "Research"
+#    title = "Project Portfolio"
+#    url = "/project/"
+#    weight = 3
   [[menu.header]]
   name = "Publications"
   title = "Publications"
   url = "/Publications/"
-  weight = 5            # <-- item 3 in the navigation bar
+  weight = 4            # <-- item 3 in the navigation bar
   [[menu.header]]
   name = "CV"
   title = "CV"
   url = "/Curriculum_vitae/curriculum_vitae.pdf"
-  weight = 4
+  weight = 3
   [[menu.header]]
   name = "ESA 2022"
   title = "ESA 2022"

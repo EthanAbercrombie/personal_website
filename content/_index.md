@@ -5,7 +5,7 @@ action_type: text
 description: Global change ecology in montane ecosystems.
 image_left: true
 images:
-- img/revoir.jpg
+- img/orchid.jpg
 show_action_link: true
 show_social_links: true
 subtitle: Ecologist
