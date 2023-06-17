@@ -2,7 +2,7 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: Global change ecology in montane ecosystems.
+description: Global Change Ecology in Montane Ecosystems.
 image_left: true
 images:
 - img/orchid.jpg
